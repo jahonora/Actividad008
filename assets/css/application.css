@@ -1,0 +1,19 @@
+.logofund{
+	width: 70px;
+}
+
+.main{
+	margin-top: 10px;
+	width: 60%;
+}
+
+.linea-verde{
+	height: 10px;
+	background-color: #6ea525;
+	margin-top: 51px;
+}
+.imagenthumb{
+	width: 200px;
+	float: left;
+	margin-right: 10px;
+}
